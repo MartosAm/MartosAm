@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/adrian-martos-674850314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adrian-martos-674850314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdrianAm" height="30" width="40" /></a>
 <a href="https://github.com/MartosAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="tu-portfolio.com" height="30" width="40" /></a>
 </p>
 
@@ -48,18 +48,4 @@ Aquí están algunas de las tecnologías con las que he trabajado recientemente:
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianAm&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de AdrianAm&" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianAm&&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por AdrianAm&" />
-</p>
-
----
-
 
