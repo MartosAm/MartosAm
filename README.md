@@ -54,19 +54,12 @@ Aquí están algunas de las tecnologías con las que he trabajado recientemente:
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de TU_USUARIO_DE_GITHUB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianAm&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de AdrianAm&" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por TU_USUARIO_DE_GITHUB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianAm&&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Lenguajes más usados por AdrianAm&" />
 </p>
 
 ---
 
-### 🏆 Mis Proyectos Destacados
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Nombre del Proyecto 1</h3>
-<div align="center">
-<a href="
