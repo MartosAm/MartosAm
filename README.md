@@ -1,10 +1,9 @@
 <h1 align="center">Martos</h1>
-<h3 align="center">Un apasionado desarrollador Full Stack de [Tu País o Ciudad]</h3>
+<h3 align="center">Desarrollador</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/tu-usuario-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario-linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/tu-usuario-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu-usuario-twitter" height="30" width="40" /></a>
-<a href="https://tu-portfolio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="tu-portfolio.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adrian-martos-674850314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario-linkedin" height="30" width="40" /></a>
+<a href="https://github.com/MartosAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/www.svg" alt="tu-portfolio.com" height="30" width="40" /></a>
 </p>
 
 ---
@@ -13,12 +12,9 @@
 
 <p align="left"> 👨‍💻 Soy un desarrollador con experiencia en la creación de aplicaciones web robustas y escalables. Me especializo en el ecosistema de JavaScript, trabajando tanto en el frontend como en el backend para entregar soluciones completas.
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto personal o profesional]**.
-- 🌱 Estoy aprendiendo **[Alguna nueva tecnología, ej: Web3, GraphQL, etc.]**.
-- 👯 Busco colaborar en **proyectos de código abierto relacionados con Node.js o React**.
-- 💬 Pregúntame sobre **JavaScript, TypeScript, Node.js y desarrollo de APIs REST**.
-- 📫 Cómo contactarme: **[tu-email@dominio.com]**
-- ⚡ Dato curioso: **[Algo interesante sobre ti, ej: Me encanta el café y el código limpio.]**
+- 🔭 Buscando....
+- 🌱 Estoy aprendiendo **Servicios en la nube**.
+- 📫 Cómo contactarme: **adrianvelarex@gmail.com**
 </p>
 
 ---
